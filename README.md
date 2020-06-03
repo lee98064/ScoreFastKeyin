@@ -24,11 +24,12 @@
 5.再按一次寫入資料
 6.自動跳回步驟一
 
-##圖片
+## 圖片
 
 ![程式執行頁面](https://upload.cc/i1/2020/06/03/DBsaif.png)
 
 ## 反饋與建議
+
 >Gmail：[@小助手](mailto:lee98064@gmail.com)
 >Facebook：[@壢商小助手](https://m.me/clvschelper)
 
