@@ -47,7 +47,7 @@ Partial Class Form3
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(164, 18)
         Me.Label1.TabIndex = 1
-        Me.Label1.Text = "成績快速輸入 V1.1"
+        Me.Label1.Text = "成績快速輸入 V1.0"
         '
         'Label2
         '
@@ -57,7 +57,7 @@ Partial Class Form3
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(73, 15)
         Me.Label2.TabIndex = 2
-        Me.Label2.Text = "版本: V1.1"
+        Me.Label2.Text = "版本: V1.0"
         '
         'Label3
         '
@@ -65,9 +65,9 @@ Partial Class Form3
         Me.Label3.Font = New System.Drawing.Font("新細明體", 11.0!)
         Me.Label3.Location = New System.Drawing.Point(105, 103)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(127, 15)
+        Me.Label3.Size = New System.Drawing.Size(142, 15)
         Me.Label3.TabIndex = 3
-        Me.Label3.Text = "Power By 鳥仔軟件"
+        Me.Label3.Text = "Power By 壢商小助手"
         '
         'TextBox1
         '

@@ -4,6 +4,6 @@
     End Sub
 
     Private Sub Form3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        TextBox1.Text = "更新內容:" & vbNewLine & "1.新增多組成績功能"
+        TextBox1.Text = "更新內容:" & vbNewLine & "1.首發版上線"
     End Sub
 End Class
