@@ -1,0 +1,45 @@
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\bin\Debug\成績輸入(Excel).exe.config
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\bin\Debug\成績輸入(Excel).exe
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\bin\Debug\成績輸入(Excel).pdb
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\bin\Debug\成績輸入(Excel).xml
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbprojAssemblyReference.cache
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbproj.ResolveComReference.cache
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Form1.resources
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Resources.resources
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbproj.GenerateResource.cache
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbproj.CoreCompileInputs.cache
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入(Excel).exe
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入(Excel).xml
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入(Excel).pdb
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Form2.resources
+C:\Users\Ryan Lee\source\repos\成績輸入(Excel)\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Form3.resources
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\bin\Debug\成績輸入(Excel).exe.config
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\bin\Debug\成績輸入(Excel).exe
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\bin\Debug\成績輸入(Excel).pdb
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\bin\Debug\成績輸入(Excel).xml
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbprojAssemblyReference.cache
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbproj.ResolveComReference.cache
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Form1.resources
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Form2.resources
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Form3.resources
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Resources.resources
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbproj.GenerateResource.cache
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbproj.CoreCompileInputs.cache
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).exe
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).xml
+D:\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).pdb
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\bin\Debug\成績輸入(Excel).exe.config
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\bin\Debug\成績輸入(Excel).exe
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\bin\Debug\成績輸入(Excel).pdb
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\bin\Debug\成績輸入(Excel).xml
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbprojAssemblyReference.cache
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbproj.ResolveComReference.cache
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Form1.resources
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Form2.resources
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Form3.resources
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入_Excel_.Resources.resources
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbproj.GenerateResource.cache
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).vbproj.CoreCompileInputs.cache
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).exe
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).xml
+D:\程式開發\VB程式專案\成績輸入(Excel)改\成績輸入(Excel)\obj\Debug\成績輸入(Excel).pdb
